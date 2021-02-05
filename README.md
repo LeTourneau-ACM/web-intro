@@ -1,6 +1,6 @@
 # Web Design Part 2!
 
-This is a repository with a skeleton for a webpage using various frameworks.
+This is a repository with a skeleton for a webpage using various frameworks. This week we will be continuing our discussion on UI/UX as well as starting to talk about how to actually implement this as a website developer using HTML/CSS.
 
 
 ## Instructions
